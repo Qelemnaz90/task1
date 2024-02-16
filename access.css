@@ -1,0 +1,31 @@
+.header {
+    background-color: grey;
+    padding-left: 300px;}
+
+    .nav {
+        columns: 3;
+        background-color: dimgrey;
+        padding-left: 100px;}
+
+        .img h1 {
+        background-color:   beige;
+        width: 140px;
+        height: 150px;
+        margin-left: 80px;
+        margin-top: px;
+        float: left;}
+        .main {
+            background-color: bisque;
+            height: 200px;}
+
+            .h1 h1 {
+                margin-left: 400px;}
+        
+            .h1 h2{
+                padding-left: 400px;
+                color: black;
+                background-color: blue;}
+
+            .footer {
+                background-color: dimgrey;
+                padding-left: 400px;}
